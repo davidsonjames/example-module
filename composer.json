@@ -1,6 +1,6 @@
 {
   "name": "davidsonjames/example-module",
-  "type": "drupal-module",
+  "type": "drupal-module-test",
   "description": "Example module",
   "minimum-stability": "dev",
   "support": {
