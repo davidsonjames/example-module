@@ -1,0 +1,10 @@
+{
+  "name": "davidsonjames/example-module",
+  "type": "drupal-module",
+  "description": "Example module",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://github.com/davidsonjames/example-module/issues",
+    "source": "https://github.com/davidsonjames/example-module"
+  },
+}
